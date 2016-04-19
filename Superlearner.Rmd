@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to SuperLearner, a loss-based ensemble prediction algorithm"
+title: "An Introduction to SuperLearner, a loss-based ensemble prediction algorithm" 
 author: "Scott Grey, PhD"
 date: "April 14, 2016"
 output: 
